@@ -18,9 +18,8 @@ public void sayHello() {
 	tc.sayHelloFromUtility();
 }
 
-
-//Test Version
-//More Test
+//Testpull
+//Test
 
 //@Inject=
 //TestCdiUtility tc;
