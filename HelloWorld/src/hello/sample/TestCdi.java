@@ -18,9 +18,6 @@ public void sayHello() {
 	tc.sayHelloFromUtility();
 }
 
-//Testpull
-//Test
-
 //@Inject=
 //TestCdiUtility tc;
 //	public void sayHelloFromUtility() {
