@@ -12,6 +12,7 @@ public class TestCdi {
 //	@Inject
 //	TestEjb te;
 	
+	//More test
 	@Inject
 	TestCdiUtility tc;
 public void sayHello() {
