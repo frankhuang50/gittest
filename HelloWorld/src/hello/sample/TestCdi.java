@@ -9,10 +9,7 @@ public class TestCdi {
 	
 
 	
-//	@Inject
-//	TestEjb te;
-	
-	//More test
+	//updated from remote
 	@Inject
 	TestCdiUtility tc;
 public void sayHello() {
